@@ -50,7 +50,7 @@ export default function Home() {
             </div>
           </div>
           <img
-            src="/banner.png"
+            src="/banner.webp"
             width="1270"
             height="300"
             alt="Hero"
