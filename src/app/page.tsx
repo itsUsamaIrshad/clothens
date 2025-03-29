@@ -32,13 +32,13 @@ export default function Home() {
                 >
                   Shop Men
                 </Link>
-                <Link
+                {/* <Link
                   href="/search/mens-collection"
                   className="inline-flex h-9 items-center justify-center rounded-md border border-input bg-background px-4 py-2 text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
                   prefetch={false}
                 >
-                  Shop Men
-                </Link>
+                  Shop
+                </Link> */}
                 <Link
                   href="/search/sales"
                   className="inline-flex h-9 items-center justify-center rounded-md border border-red-300 border-input bg-background px-4 py-2 text-sm font-medium shadow-sm transition-colors hover:bg-red-300 hover:text-accent-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
